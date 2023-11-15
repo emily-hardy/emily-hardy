@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emily, an <a href="https://linkedin.com/in/e-hardy/">IT Professional</a> ☺ </h1>
+<h1>Hi, I'm Emily, an <a href="https://linkedin.com/in/e-hardy/">IT Professional.</a> </h1>
 <p>My background is in operations, development, and communications for nonprofits. I made the pivot into tech when I realized the need for well-rounded tech professionals in the non-profit space.</p>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
