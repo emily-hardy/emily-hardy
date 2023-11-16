@@ -4,8 +4,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Organization Configuration](https://github.com/emily-hardy/org-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/emily-hardy/ticket-lifecycle)
+  - [osTicket: Organization Configuration and SLA](https://github.com/emily-hardy/org-config)
+  - [osTicket: Ticket Examples](https://github.com/emily-hardy/ticket-servicing)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/emily-hardy/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/emily-hardy/azure-network-protocols)
