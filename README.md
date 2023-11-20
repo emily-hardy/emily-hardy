@@ -13,7 +13,7 @@
 **Connect with me:**
 https://linkedin.com/in/e-hardy
 
-OPS >>> IT/DEV
+OPS ---> IT/DEV
 - 🌱 I’m currently learning IT to make the transition to DevOps! I have a background in operations (for-profit) and development (non-profit), and I'm excited to make the switch to tech.
 - 🌎 I’m looking to collaborate on community projects. If you have a community-oriented project that needs a few more ops/tech folks, I'd love to help.
 - 🤔 I’m looking for help with building connections in the tech space. I'd love to connect.
