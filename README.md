@@ -15,7 +15,7 @@
 https://linkedin.com/in/e-hardy
 
 OPS ---> IT/DEV
-- 🌱 I’m currently learning IT to make the transition to Tech Support and DevOps! I have a background in operations (for-profit) and development (non-profit), and I'm excited to make the switch to tech.
+- 🌱 I’m currently learning IT to make the transition to Tech Support and eventually DevOps! I have a background in operations (for-profit) and development (non-profit), and I'm excited to make the switch to tech.
 - 🌎 I’m looking to collaborate on community projects. If you have a community-oriented project that needs a few more ops/tech folks, I'd love to help.
 - 🤔 I’m looking for help with building connections in the tech space. I'd love to connect.
 - 💬 Ask me about some of the community projects I've taken part in. I created a student-run internet radio station during undergrad!
