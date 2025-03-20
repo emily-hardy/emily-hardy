@@ -10,7 +10,7 @@
   - [Configuring On-Premesis Active Directory with Azure VMs](https://github.com/emily-hardy/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/emily-hardy/azure-network-protocols)
  
- <h2> Fun with LLMs:</h2>
+ <h2>🤖 Fun with LLMs:</h2>
  
 - [ChatGPT breaks my rules](https://github.com/emily-hardy/GPT4-o3mini)
 - [Grok2 placeholder]
