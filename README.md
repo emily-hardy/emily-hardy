@@ -13,7 +13,7 @@
  <br />
  
  <h2>⚙️ Coding Activities:</h2>
-
+<a href="https://github.com/emily-hardy/Simple-Game-in-C"> a game called 'stack' coded in C </a>
   <br />
   <br />
 
