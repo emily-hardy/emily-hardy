@@ -1,5 +1,6 @@
 <h1>Hi, I'm Emily, an <a href="https://linkedin.com/in/e-hardy/">AV & IT Professional</a>.</h1>
 <p>My background is in operations, development, and communications for nonprofits and small businesses. I made the pivot into tech when I realized the need for well-rounded tech professionals in the non-profit, social enterprise, and small business spaces.</p>
+<br />
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -9,7 +10,13 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-Premesis Active Directory with Azure VMs](https://github.com/emily-hardy/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/emily-hardy/azure-network-protocols)
+ <br />
  
+ <h2>⚙️ Coding Activities:</h2>
+
+  <br />
+  <br />
+
  <h2>🤖 Fun with LLMs:</h2>
  
 - [ChatGPT breaks my rules](https://github.com/emily-hardy/GPT4-o3mini)
