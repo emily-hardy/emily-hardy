@@ -32,4 +32,4 @@ AV OPS ---> IT/DEV
 - 🌎 I’m looking to collaborate on community projects. If you have a community-oriented project that needs a few more ops/tech folks, I'd love to help.
 - 🤔 I’m looking to build connections with other carer changers. I'd love to connect!
 - 💬 Ask me about some of the community projects I've taken part in. I created a student-run web-based radio station during undergrad.
-- ⚡ Fun fact: I'm a classically trainedd percussioninst/drummer. I can talk your ear off about music.
+- ⚡ Fun fact: I'm a classically trainedd percussionist/drummer. I can talk your ear off about music.
