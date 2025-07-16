@@ -1,5 +1,5 @@
 <h1>Hi, I'm Emily, an <a href="https://linkedin.com/in/e-hardy/">AV & IT Professional</a>.</h1>
-<p>My background is in operations, development, and communications for nonprofits and small businesses. I made the pivot into tech when I realized the need for well-rounded tech professionals in the non-profit, social enterprise, and small business spaces.</p>
+<p>My background is in media (audio engineering), and I made the pivot into tech when I saw the need for well-rounded tech professionals in the space.</p>
 <br />
 
 <h2>👨‍💻 Information Technology Projects:</h2>
