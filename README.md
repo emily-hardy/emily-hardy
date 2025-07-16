@@ -2,7 +2,7 @@
 <p>My background is in media (audio engineering), and I made the pivot into tech when I saw the need for well-rounded tech professionals in the space.</p>
 <br />
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Demos:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Organization Configuration and SLA](https://github.com/emily-hardy/org-config)
