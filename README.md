@@ -20,7 +20,6 @@
  <h2>🤖 Fun with LLMs:</h2>
  
 - [ChatGPT breaks my rules](https://github.com/emily-hardy/GPT4-o3mini)
-- [Grok2 placeholder]
 <br/>
 <br/>
 
@@ -29,8 +28,8 @@
 https://linkedin.com/in/e-hardy
 
 AV OPS ---> IT/DEV
-- 🌱 I work in IT/AV support with the long term goal of working in DevOps! I have a background in tech operations (for-profit) and development (non-profit).
+- 🌱 I work in IT/AV support with the long term goal of working in DevOps/Software Development!
 - 🌎 I’m looking to collaborate on community projects. If you have a community-oriented project that needs a few more ops/tech folks, I'd love to help.
-- 🤔 I’m looking to build connections in the tech space. I'd love to connect.
-- 💬 Ask me about some of the community projects I've taken part in. I created a student-run web-based radio station during undergrad!
-- ⚡ Fun fact: I'm a professional audio engineer and drummer. Music is my passion.
+- 🤔 I’m looking to build connections with other carer changers. I'd love to connect!
+- 💬 Ask me about some of the community projects I've taken part in. I created a student-run web-based radio station during undergrad.
+- ⚡ Fun fact: I'm a classically trainedd percussioninst/drummer. I can talk your ear off about music.
